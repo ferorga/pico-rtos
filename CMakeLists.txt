@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.13)
+cmake_minimum_required(VERSION 3.12)
 
 # initialize pico-sdk from submodule
 # note: this must happen before project()
@@ -10,4 +10,7 @@ project(my_project)
 pico_sdk_init()
 
 add_subdirectory(freertos)
+add_subdirectory(icm20948)
+include_directories(icm20948)
 add_subdirectory(src)
+
