@@ -144,6 +144,438 @@ ELF2UF2Build/fast:
 	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/ELF2UF2Build.dir/build.make src/CMakeFiles/ELF2UF2Build.dir/build
 .PHONY : ELF2UF2Build/fast
 
+__/pico-sdk/lib/tinyusb/src/class/audio/audio_device.obj: __/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.obj
+.PHONY : __/pico-sdk/lib/tinyusb/src/class/audio/audio_device.obj
+
+# target to build an object file
+__/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.obj:
+	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.obj
+.PHONY : __/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.obj
+
+__/pico-sdk/lib/tinyusb/src/class/audio/audio_device.i: __/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.i
+.PHONY : __/pico-sdk/lib/tinyusb/src/class/audio/audio_device.i
+
+# target to preprocess a source file
+__/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.i:
+	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.i
+.PHONY : __/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.i
+
+__/pico-sdk/lib/tinyusb/src/class/audio/audio_device.s: __/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.s
+.PHONY : __/pico-sdk/lib/tinyusb/src/class/audio/audio_device.s
+
+# target to generate assembly for a file
+__/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.s:
+	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.s
+.PHONY : __/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.s
+
+__/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.obj: __/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj
+.PHONY : __/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.obj
+
+# target to build an object file
+__/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj:
+	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj
+.PHONY : __/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj
+
+__/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.i: __/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.i
+.PHONY : __/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.i
+
+# target to preprocess a source file
+__/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.i:
+	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.i
+.PHONY : __/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.i
+
+__/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.s: __/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.s
+.PHONY : __/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.s
+
+# target to generate assembly for a file
+__/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.s:
+	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.s
+.PHONY : __/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.s
+
+__/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.obj: __/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.obj
+.PHONY : __/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.obj
+
+# target to build an object file
+__/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.obj:
+	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.obj
+.PHONY : __/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.obj
+
+__/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.i: __/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.i
+.PHONY : __/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.i
+
+# target to preprocess a source file
+__/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.i:
+	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.i
+.PHONY : __/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.i
+
+__/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.s: __/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.s
+.PHONY : __/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.s
+
+# target to generate assembly for a file
+__/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.s:
+	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.s
+.PHONY : __/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.s
+
+__/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.obj: __/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj
+.PHONY : __/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.obj
+
+# target to build an object file
+__/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj:
+	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj
+.PHONY : __/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj
+
+__/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.i: __/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.i
+.PHONY : __/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.i
+
+# target to preprocess a source file
+__/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.i:
+	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.i
+.PHONY : __/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.i
+
+__/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.s: __/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.s
+.PHONY : __/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.s
+
+# target to generate assembly for a file
+__/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.s:
+	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.s
+.PHONY : __/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.s
+
+__/pico-sdk/lib/tinyusb/src/class/hid/hid_device.obj: __/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.obj
+.PHONY : __/pico-sdk/lib/tinyusb/src/class/hid/hid_device.obj
+
+# target to build an object file
+__/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.obj:
+	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.obj
+.PHONY : __/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.obj
+
+__/pico-sdk/lib/tinyusb/src/class/hid/hid_device.i: __/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.i
+.PHONY : __/pico-sdk/lib/tinyusb/src/class/hid/hid_device.i
+
+# target to preprocess a source file
+__/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.i:
+	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.i
+.PHONY : __/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.i
+
+__/pico-sdk/lib/tinyusb/src/class/hid/hid_device.s: __/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.s
+.PHONY : __/pico-sdk/lib/tinyusb/src/class/hid/hid_device.s
+
+# target to generate assembly for a file
+__/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.s:
+	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.s
+.PHONY : __/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.s
+
+__/pico-sdk/lib/tinyusb/src/class/midi/midi_device.obj: __/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.obj
+.PHONY : __/pico-sdk/lib/tinyusb/src/class/midi/midi_device.obj
+
+# target to build an object file
+__/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.obj:
+	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.obj
+.PHONY : __/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.obj
+
+__/pico-sdk/lib/tinyusb/src/class/midi/midi_device.i: __/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.i
+.PHONY : __/pico-sdk/lib/tinyusb/src/class/midi/midi_device.i
+
+# target to preprocess a source file
+__/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.i:
+	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.i
+.PHONY : __/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.i
+
+__/pico-sdk/lib/tinyusb/src/class/midi/midi_device.s: __/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.s
+.PHONY : __/pico-sdk/lib/tinyusb/src/class/midi/midi_device.s
+
+# target to generate assembly for a file
+__/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.s:
+	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.s
+.PHONY : __/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.s
+
+__/pico-sdk/lib/tinyusb/src/class/msc/msc_device.obj: __/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.obj
+.PHONY : __/pico-sdk/lib/tinyusb/src/class/msc/msc_device.obj
+
+# target to build an object file
+__/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.obj:
+	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.obj
+.PHONY : __/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.obj
+
+__/pico-sdk/lib/tinyusb/src/class/msc/msc_device.i: __/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.i
+.PHONY : __/pico-sdk/lib/tinyusb/src/class/msc/msc_device.i
+
+# target to preprocess a source file
+__/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.i:
+	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.i
+.PHONY : __/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.i
+
+__/pico-sdk/lib/tinyusb/src/class/msc/msc_device.s: __/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.s
+.PHONY : __/pico-sdk/lib/tinyusb/src/class/msc/msc_device.s
+
+# target to generate assembly for a file
+__/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.s:
+	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.s
+.PHONY : __/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.s
+
+__/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.obj: __/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj
+.PHONY : __/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.obj
+
+# target to build an object file
+__/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj:
+	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj
+.PHONY : __/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj
+
+__/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.i: __/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.i
+.PHONY : __/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.i
+
+# target to preprocess a source file
+__/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.i:
+	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.i
+.PHONY : __/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.i
+
+__/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.s: __/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.s
+.PHONY : __/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.s
+
+# target to generate assembly for a file
+__/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.s:
+	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.s
+.PHONY : __/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.s
+
+__/pico-sdk/lib/tinyusb/src/class/net/ncm_device.obj: __/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.obj
+.PHONY : __/pico-sdk/lib/tinyusb/src/class/net/ncm_device.obj
+
+# target to build an object file
+__/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.obj:
+	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.obj
+.PHONY : __/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.obj
+
+__/pico-sdk/lib/tinyusb/src/class/net/ncm_device.i: __/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.i
+.PHONY : __/pico-sdk/lib/tinyusb/src/class/net/ncm_device.i
+
+# target to preprocess a source file
+__/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.i:
+	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.i
+.PHONY : __/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.i
+
+__/pico-sdk/lib/tinyusb/src/class/net/ncm_device.s: __/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.s
+.PHONY : __/pico-sdk/lib/tinyusb/src/class/net/ncm_device.s
+
+# target to generate assembly for a file
+__/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.s:
+	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.s
+.PHONY : __/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.s
+
+__/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.obj: __/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj
+.PHONY : __/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.obj
+
+# target to build an object file
+__/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj:
+	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj
+.PHONY : __/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj
+
+__/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.i: __/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.i
+.PHONY : __/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.i
+
+# target to preprocess a source file
+__/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.i:
+	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.i
+.PHONY : __/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.i
+
+__/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.s: __/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.s
+.PHONY : __/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.s
+
+# target to generate assembly for a file
+__/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.s:
+	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.s
+.PHONY : __/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.s
+
+__/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.obj: __/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.obj
+.PHONY : __/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.obj
+
+# target to build an object file
+__/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.obj:
+	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.obj
+.PHONY : __/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.obj
+
+__/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.i: __/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.i
+.PHONY : __/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.i
+
+# target to preprocess a source file
+__/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.i:
+	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.i
+.PHONY : __/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.i
+
+__/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.s: __/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.s
+.PHONY : __/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.s
+
+# target to generate assembly for a file
+__/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.s:
+	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.s
+.PHONY : __/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.s
+
+__/pico-sdk/lib/tinyusb/src/class/video/video_device.obj: __/pico-sdk/lib/tinyusb/src/class/video/video_device.c.obj
+.PHONY : __/pico-sdk/lib/tinyusb/src/class/video/video_device.obj
+
+# target to build an object file
+__/pico-sdk/lib/tinyusb/src/class/video/video_device.c.obj:
+	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/lib/tinyusb/src/class/video/video_device.c.obj
+.PHONY : __/pico-sdk/lib/tinyusb/src/class/video/video_device.c.obj
+
+__/pico-sdk/lib/tinyusb/src/class/video/video_device.i: __/pico-sdk/lib/tinyusb/src/class/video/video_device.c.i
+.PHONY : __/pico-sdk/lib/tinyusb/src/class/video/video_device.i
+
+# target to preprocess a source file
+__/pico-sdk/lib/tinyusb/src/class/video/video_device.c.i:
+	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/lib/tinyusb/src/class/video/video_device.c.i
+.PHONY : __/pico-sdk/lib/tinyusb/src/class/video/video_device.c.i
+
+__/pico-sdk/lib/tinyusb/src/class/video/video_device.s: __/pico-sdk/lib/tinyusb/src/class/video/video_device.c.s
+.PHONY : __/pico-sdk/lib/tinyusb/src/class/video/video_device.s
+
+# target to generate assembly for a file
+__/pico-sdk/lib/tinyusb/src/class/video/video_device.c.s:
+	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/lib/tinyusb/src/class/video/video_device.c.s
+.PHONY : __/pico-sdk/lib/tinyusb/src/class/video/video_device.c.s
+
+__/pico-sdk/lib/tinyusb/src/common/tusb_fifo.obj: __/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj
+.PHONY : __/pico-sdk/lib/tinyusb/src/common/tusb_fifo.obj
+
+# target to build an object file
+__/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj:
+	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj
+.PHONY : __/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj
+
+__/pico-sdk/lib/tinyusb/src/common/tusb_fifo.i: __/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.i
+.PHONY : __/pico-sdk/lib/tinyusb/src/common/tusb_fifo.i
+
+# target to preprocess a source file
+__/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.i:
+	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.i
+.PHONY : __/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.i
+
+__/pico-sdk/lib/tinyusb/src/common/tusb_fifo.s: __/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.s
+.PHONY : __/pico-sdk/lib/tinyusb/src/common/tusb_fifo.s
+
+# target to generate assembly for a file
+__/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.s:
+	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.s
+.PHONY : __/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.s
+
+__/pico-sdk/lib/tinyusb/src/device/usbd.obj: __/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
+.PHONY : __/pico-sdk/lib/tinyusb/src/device/usbd.obj
+
+# target to build an object file
+__/pico-sdk/lib/tinyusb/src/device/usbd.c.obj:
+	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
+.PHONY : __/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
+
+__/pico-sdk/lib/tinyusb/src/device/usbd.i: __/pico-sdk/lib/tinyusb/src/device/usbd.c.i
+.PHONY : __/pico-sdk/lib/tinyusb/src/device/usbd.i
+
+# target to preprocess a source file
+__/pico-sdk/lib/tinyusb/src/device/usbd.c.i:
+	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/lib/tinyusb/src/device/usbd.c.i
+.PHONY : __/pico-sdk/lib/tinyusb/src/device/usbd.c.i
+
+__/pico-sdk/lib/tinyusb/src/device/usbd.s: __/pico-sdk/lib/tinyusb/src/device/usbd.c.s
+.PHONY : __/pico-sdk/lib/tinyusb/src/device/usbd.s
+
+# target to generate assembly for a file
+__/pico-sdk/lib/tinyusb/src/device/usbd.c.s:
+	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/lib/tinyusb/src/device/usbd.c.s
+.PHONY : __/pico-sdk/lib/tinyusb/src/device/usbd.c.s
+
+__/pico-sdk/lib/tinyusb/src/device/usbd_control.obj: __/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj
+.PHONY : __/pico-sdk/lib/tinyusb/src/device/usbd_control.obj
+
+# target to build an object file
+__/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj:
+	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj
+.PHONY : __/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj
+
+__/pico-sdk/lib/tinyusb/src/device/usbd_control.i: __/pico-sdk/lib/tinyusb/src/device/usbd_control.c.i
+.PHONY : __/pico-sdk/lib/tinyusb/src/device/usbd_control.i
+
+# target to preprocess a source file
+__/pico-sdk/lib/tinyusb/src/device/usbd_control.c.i:
+	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/lib/tinyusb/src/device/usbd_control.c.i
+.PHONY : __/pico-sdk/lib/tinyusb/src/device/usbd_control.c.i
+
+__/pico-sdk/lib/tinyusb/src/device/usbd_control.s: __/pico-sdk/lib/tinyusb/src/device/usbd_control.c.s
+.PHONY : __/pico-sdk/lib/tinyusb/src/device/usbd_control.s
+
+# target to generate assembly for a file
+__/pico-sdk/lib/tinyusb/src/device/usbd_control.c.s:
+	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/lib/tinyusb/src/device/usbd_control.c.s
+.PHONY : __/pico-sdk/lib/tinyusb/src/device/usbd_control.c.s
+
+__/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.obj: __/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
+.PHONY : __/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.obj
+
+# target to build an object file
+__/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj:
+	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
+.PHONY : __/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
+
+__/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.i: __/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.i
+.PHONY : __/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.i
+
+# target to preprocess a source file
+__/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.i:
+	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.i
+.PHONY : __/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.i
+
+__/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.s: __/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.s
+.PHONY : __/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.s
+
+# target to generate assembly for a file
+__/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.s:
+	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.s
+.PHONY : __/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.s
+
+__/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.obj: __/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj
+.PHONY : __/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.obj
+
+# target to build an object file
+__/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj:
+	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj
+.PHONY : __/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj
+
+__/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.i: __/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.i
+.PHONY : __/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.i
+
+# target to preprocess a source file
+__/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.i:
+	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.i
+.PHONY : __/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.i
+
+__/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.s: __/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.s
+.PHONY : __/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.s
+
+# target to generate assembly for a file
+__/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.s:
+	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.s
+.PHONY : __/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.s
+
+__/pico-sdk/lib/tinyusb/src/tusb.obj: __/pico-sdk/lib/tinyusb/src/tusb.c.obj
+.PHONY : __/pico-sdk/lib/tinyusb/src/tusb.obj
+
+# target to build an object file
+__/pico-sdk/lib/tinyusb/src/tusb.c.obj:
+	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/lib/tinyusb/src/tusb.c.obj
+.PHONY : __/pico-sdk/lib/tinyusb/src/tusb.c.obj
+
+__/pico-sdk/lib/tinyusb/src/tusb.i: __/pico-sdk/lib/tinyusb/src/tusb.c.i
+.PHONY : __/pico-sdk/lib/tinyusb/src/tusb.i
+
+# target to preprocess a source file
+__/pico-sdk/lib/tinyusb/src/tusb.c.i:
+	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/lib/tinyusb/src/tusb.c.i
+.PHONY : __/pico-sdk/lib/tinyusb/src/tusb.c.i
+
+__/pico-sdk/lib/tinyusb/src/tusb.s: __/pico-sdk/lib/tinyusb/src/tusb.c.s
+.PHONY : __/pico-sdk/lib/tinyusb/src/tusb.s
+
+# target to generate assembly for a file
+__/pico-sdk/lib/tinyusb/src/tusb.c.s:
+	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/lib/tinyusb/src/tusb.c.s
+.PHONY : __/pico-sdk/lib/tinyusb/src/tusb.c.s
+
 __/pico-sdk/src/common/pico_sync/critical_section.obj: __/pico-sdk/src/common/pico_sync/critical_section.c.obj
 .PHONY : __/pico-sdk/src/common/pico_sync/critical_section.obj
 
@@ -415,6 +847,30 @@ __/pico-sdk/src/rp2_common/hardware_divider/divider.obj: __/pico-sdk/src/rp2_com
 __/pico-sdk/src/rp2_common/hardware_divider/divider.S.obj:
 	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/src/rp2_common/hardware_divider/divider.S.obj
 .PHONY : __/pico-sdk/src/rp2_common/hardware_divider/divider.S.obj
+
+__/pico-sdk/src/rp2_common/hardware_flash/flash.obj: __/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj
+.PHONY : __/pico-sdk/src/rp2_common/hardware_flash/flash.obj
+
+# target to build an object file
+__/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj:
+	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj
+.PHONY : __/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj
+
+__/pico-sdk/src/rp2_common/hardware_flash/flash.i: __/pico-sdk/src/rp2_common/hardware_flash/flash.c.i
+.PHONY : __/pico-sdk/src/rp2_common/hardware_flash/flash.i
+
+# target to preprocess a source file
+__/pico-sdk/src/rp2_common/hardware_flash/flash.c.i:
+	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/src/rp2_common/hardware_flash/flash.c.i
+.PHONY : __/pico-sdk/src/rp2_common/hardware_flash/flash.c.i
+
+__/pico-sdk/src/rp2_common/hardware_flash/flash.s: __/pico-sdk/src/rp2_common/hardware_flash/flash.c.s
+.PHONY : __/pico-sdk/src/rp2_common/hardware_flash/flash.s
+
+# target to generate assembly for a file
+__/pico-sdk/src/rp2_common/hardware_flash/flash.c.s:
+	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/src/rp2_common/hardware_flash/flash.c.s
+.PHONY : __/pico-sdk/src/rp2_common/hardware_flash/flash.c.s
 
 __/pico-sdk/src/rp2_common/hardware_gpio/gpio.obj: __/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj
 .PHONY : __/pico-sdk/src/rp2_common/hardware_gpio/gpio.obj
@@ -744,6 +1200,30 @@ __/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj:
 	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
 .PHONY : __/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
 
+__/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.obj: __/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
+.PHONY : __/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.obj
+
+# target to build an object file
+__/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj:
+	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
+.PHONY : __/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
+
+__/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.i: __/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.i
+.PHONY : __/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.i
+
+# target to preprocess a source file
+__/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.i:
+	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.i
+.PHONY : __/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.i
+
+__/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.s: __/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.s
+.PHONY : __/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.s
+
+# target to generate assembly for a file
+__/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.s:
+	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.s
+.PHONY : __/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.s
+
 __/pico-sdk/src/rp2_common/pico_float/float_aeabi.obj: __/pico-sdk/src/rp2_common/pico_float/float_aeabi.S.obj
 .PHONY : __/pico-sdk/src/rp2_common/pico_float/float_aeabi.obj
 
@@ -1000,29 +1480,77 @@ __/pico-sdk/src/rp2_common/pico_stdio/stdio.c.s:
 	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/src/rp2_common/pico_stdio/stdio.c.s
 .PHONY : __/pico-sdk/src/rp2_common/pico_stdio/stdio.c.s
 
-__/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.obj: __/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj
-.PHONY : __/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.obj
+__/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.obj: __/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj
+.PHONY : __/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.obj
 
 # target to build an object file
-__/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj:
-	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj
-.PHONY : __/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj
+__/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj:
+	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj
+.PHONY : __/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj
 
-__/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.i: __/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.i
-.PHONY : __/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.i
+__/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.i: __/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.i
+.PHONY : __/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.i
 
 # target to preprocess a source file
-__/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.i:
-	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.i
-.PHONY : __/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.i
+__/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.i:
+	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.i
+.PHONY : __/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.i
 
-__/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.s: __/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.s
-.PHONY : __/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.s
+__/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.s: __/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.s
+.PHONY : __/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.s
 
 # target to generate assembly for a file
-__/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.s:
-	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.s
-.PHONY : __/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.s
+__/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.s:
+	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.s
+.PHONY : __/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.s
+
+__/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.obj: __/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
+.PHONY : __/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.obj
+
+# target to build an object file
+__/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj:
+	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
+.PHONY : __/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
+
+__/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.i: __/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.i
+.PHONY : __/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.i
+
+# target to preprocess a source file
+__/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.i:
+	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.i
+.PHONY : __/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.i
+
+__/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.s: __/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.s
+.PHONY : __/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.s
+
+# target to generate assembly for a file
+__/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.s:
+	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.s
+.PHONY : __/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.s
+
+__/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.obj: __/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj
+.PHONY : __/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.obj
+
+# target to build an object file
+__/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj:
+	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj
+.PHONY : __/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj
+
+__/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.i: __/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.i
+.PHONY : __/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.i
+
+# target to preprocess a source file
+__/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.i:
+	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.i
+.PHONY : __/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.i
+
+__/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.s: __/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.s
+.PHONY : __/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.s
+
+# target to generate assembly for a file
+__/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.s:
+	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.s
+.PHONY : __/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.s
 
 __/pico-sdk/src/rp2_common/pico_stdlib/stdlib.obj: __/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj
 .PHONY : __/pico-sdk/src/rp2_common/pico_stdlib/stdlib.obj
@@ -1047,6 +1575,30 @@ __/pico-sdk/src/rp2_common/pico_stdlib/stdlib.s: __/pico-sdk/src/rp2_common/pico
 __/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.s:
 	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.s
 .PHONY : __/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.s
+
+__/pico-sdk/src/rp2_common/pico_unique_id/unique_id.obj: __/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj
+.PHONY : __/pico-sdk/src/rp2_common/pico_unique_id/unique_id.obj
+
+# target to build an object file
+__/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj:
+	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj
+.PHONY : __/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj
+
+__/pico-sdk/src/rp2_common/pico_unique_id/unique_id.i: __/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.i
+.PHONY : __/pico-sdk/src/rp2_common/pico_unique_id/unique_id.i
+
+# target to preprocess a source file
+__/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.i:
+	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.i
+.PHONY : __/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.i
+
+__/pico-sdk/src/rp2_common/pico_unique_id/unique_id.s: __/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.s
+.PHONY : __/pico-sdk/src/rp2_common/pico_unique_id/unique_id.s
+
+# target to generate assembly for a file
+__/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.s:
+	cd /home/forte/workspace/git/pico-rtos/build && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/pico-rtos.dir/build.make src/CMakeFiles/pico-rtos.dir/__/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.s
+.PHONY : __/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.s
 
 main.obj: main.c.obj
 .PHONY : main.obj
@@ -1082,6 +1634,60 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... ELF2UF2Build"
 	@echo "... pico-rtos"
+	@echo "... __/pico-sdk/lib/tinyusb/src/class/audio/audio_device.obj"
+	@echo "... __/pico-sdk/lib/tinyusb/src/class/audio/audio_device.i"
+	@echo "... __/pico-sdk/lib/tinyusb/src/class/audio/audio_device.s"
+	@echo "... __/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.obj"
+	@echo "... __/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.i"
+	@echo "... __/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.s"
+	@echo "... __/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.obj"
+	@echo "... __/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.i"
+	@echo "... __/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.s"
+	@echo "... __/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.obj"
+	@echo "... __/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.i"
+	@echo "... __/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.s"
+	@echo "... __/pico-sdk/lib/tinyusb/src/class/hid/hid_device.obj"
+	@echo "... __/pico-sdk/lib/tinyusb/src/class/hid/hid_device.i"
+	@echo "... __/pico-sdk/lib/tinyusb/src/class/hid/hid_device.s"
+	@echo "... __/pico-sdk/lib/tinyusb/src/class/midi/midi_device.obj"
+	@echo "... __/pico-sdk/lib/tinyusb/src/class/midi/midi_device.i"
+	@echo "... __/pico-sdk/lib/tinyusb/src/class/midi/midi_device.s"
+	@echo "... __/pico-sdk/lib/tinyusb/src/class/msc/msc_device.obj"
+	@echo "... __/pico-sdk/lib/tinyusb/src/class/msc/msc_device.i"
+	@echo "... __/pico-sdk/lib/tinyusb/src/class/msc/msc_device.s"
+	@echo "... __/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.obj"
+	@echo "... __/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.i"
+	@echo "... __/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.s"
+	@echo "... __/pico-sdk/lib/tinyusb/src/class/net/ncm_device.obj"
+	@echo "... __/pico-sdk/lib/tinyusb/src/class/net/ncm_device.i"
+	@echo "... __/pico-sdk/lib/tinyusb/src/class/net/ncm_device.s"
+	@echo "... __/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.obj"
+	@echo "... __/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.i"
+	@echo "... __/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.s"
+	@echo "... __/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.obj"
+	@echo "... __/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.i"
+	@echo "... __/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.s"
+	@echo "... __/pico-sdk/lib/tinyusb/src/class/video/video_device.obj"
+	@echo "... __/pico-sdk/lib/tinyusb/src/class/video/video_device.i"
+	@echo "... __/pico-sdk/lib/tinyusb/src/class/video/video_device.s"
+	@echo "... __/pico-sdk/lib/tinyusb/src/common/tusb_fifo.obj"
+	@echo "... __/pico-sdk/lib/tinyusb/src/common/tusb_fifo.i"
+	@echo "... __/pico-sdk/lib/tinyusb/src/common/tusb_fifo.s"
+	@echo "... __/pico-sdk/lib/tinyusb/src/device/usbd.obj"
+	@echo "... __/pico-sdk/lib/tinyusb/src/device/usbd.i"
+	@echo "... __/pico-sdk/lib/tinyusb/src/device/usbd.s"
+	@echo "... __/pico-sdk/lib/tinyusb/src/device/usbd_control.obj"
+	@echo "... __/pico-sdk/lib/tinyusb/src/device/usbd_control.i"
+	@echo "... __/pico-sdk/lib/tinyusb/src/device/usbd_control.s"
+	@echo "... __/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.obj"
+	@echo "... __/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.i"
+	@echo "... __/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.s"
+	@echo "... __/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.obj"
+	@echo "... __/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.i"
+	@echo "... __/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.s"
+	@echo "... __/pico-sdk/lib/tinyusb/src/tusb.obj"
+	@echo "... __/pico-sdk/lib/tinyusb/src/tusb.i"
+	@echo "... __/pico-sdk/lib/tinyusb/src/tusb.s"
 	@echo "... __/pico-sdk/src/common/pico_sync/critical_section.obj"
 	@echo "... __/pico-sdk/src/common/pico_sync/critical_section.i"
 	@echo "... __/pico-sdk/src/common/pico_sync/critical_section.s"
@@ -1116,6 +1722,9 @@ help:
 	@echo "... __/pico-sdk/src/rp2_common/hardware_clocks/clocks.i"
 	@echo "... __/pico-sdk/src/rp2_common/hardware_clocks/clocks.s"
 	@echo "... __/pico-sdk/src/rp2_common/hardware_divider/divider.obj"
+	@echo "... __/pico-sdk/src/rp2_common/hardware_flash/flash.obj"
+	@echo "... __/pico-sdk/src/rp2_common/hardware_flash/flash.i"
+	@echo "... __/pico-sdk/src/rp2_common/hardware_flash/flash.s"
 	@echo "... __/pico-sdk/src/rp2_common/hardware_gpio/gpio.obj"
 	@echo "... __/pico-sdk/src/rp2_common/hardware_gpio/gpio.i"
 	@echo "... __/pico-sdk/src/rp2_common/hardware_gpio/gpio.s"
@@ -1157,6 +1766,9 @@ help:
 	@echo "... __/pico-sdk/src/rp2_common/pico_double/double_math.i"
 	@echo "... __/pico-sdk/src/rp2_common/pico_double/double_math.s"
 	@echo "... __/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.obj"
+	@echo "... __/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.obj"
+	@echo "... __/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.i"
+	@echo "... __/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.s"
 	@echo "... __/pico-sdk/src/rp2_common/pico_float/float_aeabi.obj"
 	@echo "... __/pico-sdk/src/rp2_common/pico_float/float_init_rom.obj"
 	@echo "... __/pico-sdk/src/rp2_common/pico_float/float_init_rom.i"
@@ -1189,12 +1801,21 @@ help:
 	@echo "... __/pico-sdk/src/rp2_common/pico_stdio/stdio.obj"
 	@echo "... __/pico-sdk/src/rp2_common/pico_stdio/stdio.i"
 	@echo "... __/pico-sdk/src/rp2_common/pico_stdio/stdio.s"
-	@echo "... __/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.obj"
-	@echo "... __/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.i"
-	@echo "... __/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.s"
+	@echo "... __/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.obj"
+	@echo "... __/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.i"
+	@echo "... __/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.s"
+	@echo "... __/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.obj"
+	@echo "... __/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.i"
+	@echo "... __/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.s"
+	@echo "... __/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.obj"
+	@echo "... __/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.i"
+	@echo "... __/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.s"
 	@echo "... __/pico-sdk/src/rp2_common/pico_stdlib/stdlib.obj"
 	@echo "... __/pico-sdk/src/rp2_common/pico_stdlib/stdlib.i"
 	@echo "... __/pico-sdk/src/rp2_common/pico_stdlib/stdlib.s"
+	@echo "... __/pico-sdk/src/rp2_common/pico_unique_id/unique_id.obj"
+	@echo "... __/pico-sdk/src/rp2_common/pico_unique_id/unique_id.i"
+	@echo "... __/pico-sdk/src/rp2_common/pico_unique_id/unique_id.s"
 	@echo "... main.obj"
 	@echo "... main.i"
 	@echo "... main.s"
