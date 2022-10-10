@@ -22,6 +22,16 @@
                 "kind": "build",
                 "isDefault": true
             }
-        }        
+        },
+        {
+            "label": "Flash Pico",
+            "type": "shell",
+            "command": "./flash.sh build/src/pico-rtos.uf2",
+            "problemMatcher": [],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        }
     ]
 }

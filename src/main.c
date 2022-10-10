@@ -26,7 +26,7 @@ void led_task(void *pvParameters)
         gpio_put(LED_PIN, 0);
         uIValueToSend = 0;
         xQueueSend(xQueue, &uIValueToSend, 0U);
-        vTaskDelay(100);
+        vTaskDelay(1000/portTICK_PERIOD_MS);
     }
 }
 
@@ -103,9 +103,7 @@ int main()
 {
     stdio_init_all();
 
-    while (!stdio_usb_connected())
-    {
-    }
+    //while (!stdio_usb_connected()){}
 
     sleep_ms(1000);
 
